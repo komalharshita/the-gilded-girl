@@ -2,16 +2,16 @@
 
 # 🌸 The Gilded Girl
 
-**The Gilded Girl** is my dream project — a creative and digital space that blends **student lifestyle, feminine aesthetics, and digital planning**.  
+**The Gilded Girl** is my dream project — a creative and digital space.  
 
-This website is a simple HTML & CSS project built with care, reflecting my vision of a cozy and inspiring online corner.  
+This website is a simple HTML & CSS project reflecting my vision of a cozy and inspiring online corner.  
 
 ---
 
 ## ✨ Features
 - Elegant design inspired by feminine aesthetics  
 - Smooth navigation with section-based layout  
-- Custom brand colors & typography (Playfair Display + Raleway)  
+- Custom brand colors & typography 
 - Gallery showcasing brand visuals and digital planning inspiration  
 - Contact section for connecting 💌  
 
@@ -19,8 +19,7 @@ This website is a simple HTML & CSS project built with care, reflecting my visio
 
 ## 🛠️ Built With
 - **HTML5**  
-- **CSS3**  
-- **Google Fonts**: Playfair Display & Raleway  
+- **CSS3**    
 
 ---
 
@@ -36,7 +35,7 @@ the-gilded-girl/
 
 ## 🚀 How to View
 1. Clone the repository:  
-   ```bash
+   ``` bash
    git clone https://github.com/komalharshita/the-gilded-girl.git
 ``
 
