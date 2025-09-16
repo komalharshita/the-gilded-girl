@@ -1,4 +1,5 @@
 /* File: style.css
+this contains all the design elements i have used in my blog
 */
 
 :root {
@@ -23,8 +24,6 @@ body {
     font-family: 'Raleway', sans-serif;
     background: linear-gradient(180deg, var(--pale-pink) 0%, #F9EEF1 60%);
     color: var(--chocolate);
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
     line-height: 1.6;
 }
 
@@ -59,7 +58,6 @@ body {
     letter-spacing: 0.6px;
     line-height: 1;
     background: linear-gradient(90deg, var(--gold-1), var(--gold-2), #fff);
-    -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
     text-shadow: 0 10px 18px rgba(197, 157, 95,0.08);
@@ -173,3 +171,4 @@ body {
     font-size: 0.95rem;
   }
 }
+
